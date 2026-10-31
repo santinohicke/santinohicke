@@ -1,7 +1,5 @@
 # Santino Hickethier
 
----
-
 ### Sobre mí
 
 Estudiante de Ingeniería en Informática en la UCA.
