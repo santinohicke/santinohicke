@@ -1,15 +1,10 @@
 # Santino Hickethier
 
-> **Estudiante de Ingeniería en Informática | Pontificia Universidad Católica Argentina (UCA)**  
-> Infraestructura · Redes · Sistemas · Desarrollo de Software
-
 ---
 
 ### Sobre mí
 
-Estudiante de Ingeniería en Informática en la UCA. Enfocado en la arquitectura de sistemas, administración de infraestructura, redes, ciberseguridad y desarrollo de software.
-
-Cuento con experiencia en la implementación y orquestación de servicios en contenedores (Homelab con Docker y Ubuntu Server), configuración de túneles VPN seguros (Zero-Trust con Tailscale), proxy inverso (Nginx), optimización algorítmica y diseño de aplicaciones aplicando principios de programación orientada a objetos (POO).
+Estudiante de Ingeniería en Informática en la UCA. 
 
 ---
 
@@ -61,11 +56,5 @@ Cuento con experiencia en la implementación y orquestación de servicios en con
 <p align="left">
   <a href="https://www.linkedin.com/in/santino-hickethier-225589216" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/santinohicke" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:santinohick@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
